@@ -1,4 +1,4 @@
-from tkinter import *   # 파일 편집기를 사용할 수 잇는 라이브러리 선언
+from tkinter import *   # 윈도우 편집기를 사용할 수 잇는 라이브러리 선언
 from tkinter.filedialog import *
 
 
