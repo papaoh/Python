@@ -3,6 +3,7 @@
 - AI프로그래밍 내용 정리
 - VsCode, Jupeter notebook을 활용
 - bs4, numpy, pandas, matplotlib 등 라이브러리 활용
+- Jubeter notebook 코드는 결과화면이 실행 즉시 표현
 
 # 코드 목록
 
